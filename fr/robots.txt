@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://ainy.gitee.io/fr/sitemap.xml
+Sitemap: https://www.ahhh.fun/fr/sitemap.xml
